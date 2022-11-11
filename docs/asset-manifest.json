@@ -18,7 +18,7 @@
     "163.a4f42a7c.chunk.js.map": "https://iyidaclem.github.io/learnable_wallet_connect/static/js/163.a4f42a7c.chunk.js.map"
   },
   "entrypoints": [
-    "https://iyidaclem.github.io/learnable_wallet_connect/static/css/main.506920af.css",
-    "https://iyidaclem.github.io/learnable_wallet_connect/static/js/main.0cddeed0.js"
+    "static/css/main.506920af.css",
+    "static/js/main.0cddeed0.js"
   ]
 }
