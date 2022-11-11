@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/learnable_wallet_connect/static/css/main.506920af.css",
+    "main.js": "/learnable_wallet_connect/static/js/main.068dde8e.js",
+    "static/js/187.57e001d7.chunk.js": "/learnable_wallet_connect/static/js/187.57e001d7.chunk.js",
+    "static/js/601.c5614404.chunk.js": "/learnable_wallet_connect/static/js/601.c5614404.chunk.js",
+    "static/js/942.5e0d9fde.chunk.js": "/learnable_wallet_connect/static/js/942.5e0d9fde.chunk.js",
+    "static/js/563.033c03be.chunk.js": "/learnable_wallet_connect/static/js/563.033c03be.chunk.js",
+    "static/js/419.b5992140.chunk.js": "/learnable_wallet_connect/static/js/419.b5992140.chunk.js",
+    "static/js/16.dd1f3ff3.chunk.js": "/learnable_wallet_connect/static/js/16.dd1f3ff3.chunk.js",
+    "static/js/163.a4f42a7c.chunk.js": "/learnable_wallet_connect/static/js/163.a4f42a7c.chunk.js",
+    "index.html": "/learnable_wallet_connect/index.html",
+    "main.506920af.css.map": "/learnable_wallet_connect/static/css/main.506920af.css.map",
+    "main.068dde8e.js.map": "/learnable_wallet_connect/static/js/main.068dde8e.js.map",
+    "187.57e001d7.chunk.js.map": "/learnable_wallet_connect/static/js/187.57e001d7.chunk.js.map",
+    "419.b5992140.chunk.js.map": "/learnable_wallet_connect/static/js/419.b5992140.chunk.js.map",
+    "16.dd1f3ff3.chunk.js.map": "/learnable_wallet_connect/static/js/16.dd1f3ff3.chunk.js.map",
+    "163.a4f42a7c.chunk.js.map": "/learnable_wallet_connect/static/js/163.a4f42a7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.506920af.css",
+    "static/js/main.068dde8e.js"
+  ]
+}
